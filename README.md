@@ -283,3 +283,14 @@ Wrist Band Code
    For the enclosure, I created a laser cut file with Adobe Illustrator to cut out panels of the enclosure I needed. I made sure to make all the sizing   correct to the according sensor.
    
    Illustrator file : https://drive.google.com/drive/folders/1YVtn1cUtS6EYl3XmPpTvg5JENjx6ec7n
+   
+   
+   ### Project Outcome
+   
+   Link to all images and demo walk through video : https://drive.google.com/drive/folders/1pcVQKxue2LciomHly5f9tDKfVYw9w065
+   
+   
+   ### Conclusion
+   
+   Overall, I think that I really enjoyed making a working prototype for this project. I think I really want to advance this project more as time pass and when I do so, I would like to include a lot more research into this so that I can really discover more of the user pain points when crocheting and come up with a more advanced system to make a crocheting experience more enjoyable for them. During the project, I did have some difficulties in trying to figure out some of the codes, but I think I learned a lot not only about the different inputs and outputs already available in this world, but how to utilize them altogether especially when I was trying to connect the two atom matrix boards together. 
+   
