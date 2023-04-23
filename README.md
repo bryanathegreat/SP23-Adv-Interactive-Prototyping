@@ -276,9 +276,10 @@ Wrist Band Code
                   sleep_ms(1000)
                   tilt_count = 1
       neopixel_strip.write()
-      ```
-    
+   ```
     
    ### Enclosure
    
-   For the enclosure, 
+   For the enclosure, I created a laser cut file with Adobe Illustrator to cut out panels of the enclosure I needed. I made sure to make all the sizing   correct to the according sensor.
+   
+   Illustrator file : https://drive.google.com/drive/folders/1YVtn1cUtS6EYl3XmPpTvg5JENjx6ec7n
