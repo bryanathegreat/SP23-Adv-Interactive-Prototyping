@@ -25,7 +25,8 @@ Crochet Stand Code
 * servo motor
 * LED light strip
 
- `from m5stack import *
+ ```
+ from m5stack import *
  from time import *
  from machine import Pin, ADC
  from neopixel import NeoPixel
@@ -135,14 +136,16 @@ Crochet Stand Code
          servo_obj.write_us(1500)
 
 
-     sleep_ms(100)`
+     sleep_ms(100)
+```
     
     
 Wrist Band Code
 * IMU sensor
 * button
-    
-  `from m5stack import *
+  
+  ```
+  from m5stack import *
   from time import *
   from machine import Pin, ADC
   from servo import Servo
@@ -272,7 +275,8 @@ Wrist Band Code
                       sleep_ms(100)
                   sleep_ms(1000)
                   tilt_count = 1
-      neopixel_strip.write()`
+      neopixel_strip.write()
+      ```
     
     
    ### Enclosure
